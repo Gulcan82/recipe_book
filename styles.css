@@ -4,6 +4,10 @@ h1 {
     font-variant: small-caps;
 }
 
+* {
+    background-color: peachpuff;
+}
+
 h2 {
     color: darkmagenta;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
