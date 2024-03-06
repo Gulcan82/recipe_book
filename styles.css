@@ -105,30 +105,14 @@ footer a:hover {
 /* Media Query für Tablets */
 @media only screen and (max-width: 1024px) {
     /* Spezifische Stile für Tablets */
-  }
+}
   
   /* Media Query für Smartphones */
-  @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     /* Spezifische Stile für Smartphones */
-  }
+}
+
+
   
-  #home-button {
-    background-color: #007bff; /* Hintergrundfarbe des Buttons */
-    color: #fff; /* Textfarbe des Buttons */
-    padding: 10px 20px; /* Innenabstand des Buttons */
-    border: none; /* Keine Rahmen um den Button */
-    border-radius: 5px; /* Abrundung der Ecken des Buttons */
-    cursor: pointer; /* Zeiger ändert sich bei Mouseover */
-    position: relative; /* Position relativ für die Animation */
-  
-    /* Übergangseffekt für Farbänderung */
-    transition: background-color 0.3s ease;
-  }
-  
-  #home-button:hover {
-    background-color: #0056b3; /* Neue Hintergrundfarbe bei Mouseover */
-  }
-  
- 
   
   
