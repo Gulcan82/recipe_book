@@ -100,3 +100,15 @@ footer {
 footer a:hover {
     text-shadow: 0px 0px 4px #946c80;
 }
+/* Allgemeine Stile für Desktop-Geräte */
+
+/* Media Query für Tablets */
+@media only screen and (max-width: 1024px) {
+    /* Spezifische Stile für Tablets */
+  }
+  
+  /* Media Query für Smartphones */
+  @media only screen and (max-width: 768px) {
+    /* Spezifische Stile für Smartphones */
+  }
+  
